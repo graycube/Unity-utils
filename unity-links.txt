@@ -1,0 +1,4 @@
+http://www.thegameengineer.com/blog/2014/02/09/unity-11-logging/
+https://stackoverflow.com/questions/40965645/what-is-the-best-way-to-save-game-state/40966346#40966346
+https://docs.unity3d.com/Manual/JSONSerialization.html
+https://www.sacredseedstudio.com/tutorials/output-the-unity-console-to-file/
